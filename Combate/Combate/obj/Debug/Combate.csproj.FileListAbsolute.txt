@@ -1,0 +1,7 @@
+C:\temp\projetos\Combate\Combate\bin\Debug\Combate.exe.config
+C:\temp\projetos\Combate\Combate\bin\Debug\Combate.exe
+C:\temp\projetos\Combate\Combate\bin\Debug\Combate.pdb
+C:\temp\projetos\Combate\Combate\obj\Debug\Combate.csproj.AssemblyReference.cache
+C:\temp\projetos\Combate\Combate\obj\Debug\Combate.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Combate\Combate\obj\Debug\Combate.exe
+C:\temp\projetos\Combate\Combate\obj\Debug\Combate.pdb
